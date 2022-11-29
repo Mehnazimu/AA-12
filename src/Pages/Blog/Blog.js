@@ -74,6 +74,9 @@ const Blog = () => {
 
                     Sharing amid objects makes for easy inheritance of structure (data fields), behavior (functions / methods), and state (data values).
 
+                    <br />
+                    prototypical inheritance refers to the ability to access object properties from another object. We use a JavaScript prototype to add new properties and methods to an existing object constructor. We can then essentially tell our JS code to inherit properties from a prototype. Prototypical inheritance allows us to reuse the properties or methods from one JavaScript object to another through a reference pointer function.
+
 
                 </p>
 
